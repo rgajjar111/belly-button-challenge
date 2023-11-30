@@ -1,7 +1,7 @@
 # Belly Button Biodiversity Dashboard
 This interactive dashboard is designed to explore the Belly Button Biodiversity dataset, which catalogs the microbes colonizing human navels. The dataset reveals key information about operational taxonomic units (OTUs) present in human navels, with some species being common among the majority of individuals.
 
-This site was built using [GitHub Pages]([https://pages.github.com/](https://rgajjar111.github.io/belly-button-challenge/).
+This site was built using [GitHub Pages]([https://pages.github.com/](https://rgajjar111.github.io/belly-button-challenge/)).
 
 A dropdown menu labeled "Test Subject ID No." will appear. Select a specific test subject ID to view corresponding data.
 
